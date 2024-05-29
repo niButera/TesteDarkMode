@@ -1,0 +1,27 @@
+/* NAVBAR */
+.navbar {
+    background: linear-gradient(to bottom right,
+            rgba(12, 32, 66, 1),
+            rgba(26, 106, 148, 1),
+            rgba(39, 169, 219, 1));
+    justify-content: space-evenly;
+    padding: 10px 2% 9px 2%;
+    border-radius: 30px;
+    text-align: center;
+    position: fixed;
+    display: flex;
+    bottom: 3%;
+    right: 5%;
+    left: 5%;
+}
+
+.icon {
+    text-decoration: none;
+    width: 60px;
+}
+
+.seta {
+    position: fixed;
+    width: 60px;
+    bottom: 3%
+}
